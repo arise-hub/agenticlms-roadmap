@@ -16,6 +16,14 @@ Status: Proposed for review. This is the parent plan; break it into work items a
 | Post-sync baseline | Record the synced `main` SHA and run the local build, tests and representative Admin/Learner smoke flows. Inventory reuse, extension and gaps in APIs, authentication, tenancy, course lifecycle, branding, translation, media and auditing. Record failures and known gaps rather than treating an interrupted run as a pass. | Engineering + QA |
 | **#2 Approved Figma designs** | Obtain the approved link, revision, design owner and screen inventory for Admin and Learner. Record those under `docs/`, with only approved assets or exports. Include responsive, loading, empty, error and permission states for the pilot. | Design + Product |
 
+### #2 Design handoff — Inji Academy V3
+
+- Desktop: [Figma design](https://www.figma.com/design/vAi0DZuqr2LFjEag2mlejw/Inji-Academy-V3?node-id=0-1&t=7EHiddM8O2D7WWOf-1) · [prototype](https://www.figma.com/proto/vAi0DZuqr2LFjEag2mlejw/Inji-Academy-V3?node-id=4-54855&p=f&viewport=579%2C570%2C0.02&t=RkU89bNVtEvjVK5E-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A54855&show-proto-sidebar=1&page-id=0%3A1)
+- Mobile: [Figma design](https://www.figma.com/design/vAi0DZuqr2LFjEag2mlejw/Inji-Academy-V3?node-id=3-54844&t=7EHiddM8O2D7WWOf-1) · [prototype](https://www.figma.com/proto/vAi0DZuqr2LFjEag2mlejw/Inji-Academy-V3?node-id=4-13&p=f&viewport=700%2C906%2C0.02&t=0NaQ8ZEv19OzyRyE-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=4%3A13&page-id=3%3A54844)
+- [Latest interactive prototype](https://inji-academy.figma.site/)
+
+Links received. The approved revision and Admin/Learner screen coverage are still to be confirmed. Figma access depends on the file's sharing settings.
+
 **Gate:** Baseline and gaps recorded, Figma pilot flows approved, and a pilot tenant, course type, locale and SSO requirement agreed. Baseline verification and design handoff can run in parallel.
 
 ## M1 — React pilot and core platform foundations
